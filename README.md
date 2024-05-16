@@ -1,2 +1,2 @@
 # Astranizer
-A new destructive malware created by GetMbr
+C++ short GDI trojan by GetMbr
